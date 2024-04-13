@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "GitHub action to get labels from PR on merge",
   "main": "index.js",
-  "icon": "list",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
