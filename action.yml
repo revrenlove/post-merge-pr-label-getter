@@ -1,5 +1,6 @@
 name: "Post Merge PR Label Getter"
 description: "GitHub action to get labels from PR on merge"
+icon: list
 inputs:
     github-token:
         description: "Super Secret Github Token"
