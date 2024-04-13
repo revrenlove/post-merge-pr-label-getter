@@ -1,0 +1,12 @@
+name: "Post Merge PR Label Getter"
+description: "GitHub action to get labels from PR on merge"
+inputs:
+    github-token:
+        description: "Super Secret Github Token"
+        required: true
+outputs:
+    label-names:
+        description: "JSON string containing array of label names associated with pull request"
+runs:
+    using: "node20"
+    main: "index.mjs"
