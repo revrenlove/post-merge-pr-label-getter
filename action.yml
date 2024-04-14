@@ -10,5 +10,6 @@ outputs:
 runs:
     using: "node20"
     main: "dist/index.mjs"
-icon: tag
-color: cyan
+branding:
+    icon: tag
+    color: cyan
