@@ -9,6 +9,6 @@ outputs:
         description: "JSON string containing array of label names associated with pull request"
 runs:
     using: "node20"
-    main: "index.mjs"
+    main: "dist/index.mjs"
 icon: tag
 color: cyan
