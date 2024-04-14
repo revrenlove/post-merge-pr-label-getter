@@ -1,6 +1,6 @@
 {
   "name": "post-merge-pr-label-getter",
-  "version": "1.0.3-alpha",
+  "version": "1.0.4-alpha",
   "description": "GitHub action to get labels from PR on merge",
   "main": "index.mjs",
   "scripts": {
