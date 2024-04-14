@@ -12,4 +12,4 @@ runs:
     main: "dist/index.mjs"
 branding:
     icon: tag
-    color: cyan
+    color: green
